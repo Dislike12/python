@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-05",
+  "projects": [
+    {
+      "slug": "habit_tracker",
+      "title": "Habit Tracker",
+      "path": "projects/habit_tracker",
+      "summary": "Track daily habits, check-ins, and current streaks in a local JSON file."
+    },
+    {
+      "slug": "file_organizer",
+      "title": "Safe File Organizer",
+      "path": "projects/file_organizer",
+      "summary": "Preview file sorting by extension and require an explicit apply flag to move files."
+    },
+    {
+      "slug": "flashcard_coach",
+      "title": "Flashcard Coach",
+      "path": "projects/flashcard_coach",
+      "summary": "Review locally stored flashcards with a simple spaced-repetition schedule."
+    },
+    {
+      "slug": "expense_splitter",
+      "title": "Expense Splitter",
+      "path": "projects/expense_splitter",
+      "summary": "Split shared expenses in integer cents and calculate settlement transfers."
+    },
+    {
+      "slug": "url_health",
+      "title": "URL Health Checker",
+      "path": "projects/url_health",
+      "summary": "Check HTTP(S) endpoint status with bounded timeouts and no third-party dependencies."
+    }
+  ]
+}
