@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "projects": [
     {
       "slug": "habit_tracker",
@@ -31,6 +31,12 @@
       "title": "URL Health Checker",
       "path": "projects/url_health",
       "summary": "Check HTTP(S) endpoint status with bounded timeouts and no third-party dependencies."
+    },
+    {
+      "slug": "backup_manifest",
+      "title": "Backup Manifest",
+      "path": "projects/backup_manifest",
+      "summary": "Create and verify local backup file inventories using SHA-256 hashes."
     }
   ]
 }

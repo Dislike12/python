@@ -9,5 +9,6 @@ These projects are standalone Python tools under active development. Each has it
 | 3 | [Flashcard Coach](flashcard_coach/README.md) | Local flashcards with deterministic spaced-repetition intervals. |
 | 4 | [Expense Splitter](expense_splitter/README.md) | Exact-cent shared-expense splitting and settlement suggestions. |
 | 5 | [URL Health Checker](url_health/README.md) | Bounded-time HTTP(S) checks with clear status reporting. |
+| 6 | [Backup Manifest](backup_manifest/README.md) | Create and verify local backup inventories with SHA-256 hashes. |
 
 Run all project tests from the repository root with `python -m unittest discover -s tests -v`. CI also runs Ruff for `projects/` and `tests/` on supported Python versions.
